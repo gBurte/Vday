@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "NO gesendee itgeltei baina uu?",
+    "Bur yag NOOO gejuuu??",
+    "Dahiad neg bolomj ugiii?",
+    "Still NOOO :(...",
+    "Dahiadddd bur sain bodood uzdeeeee!",
+    "BURRRR AIMAR SAIN Bodood uzed songooocheee...",
+    "Bi gunigtai bolnoshdeeee...",
+    "Bur uilmaar sanagdanashdee...",
+    "uiljinee bi yg odooo. SO SADDD :").",
+    "OKAYY LOB JUUUUUUU YESSS geed songooroi! ❤️"
 ];
 
 let messageIndex = 0;
